@@ -1,0 +1,259 @@
+{
+  "project_info": {
+    "project_number": "132626090670",
+    "firebase_url": "https://kueen-e5906.firebaseio.com",
+    "project_id": "kueen-e5906",
+    "storage_bucket": "kueen-e5906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132626090670:android:bc525784d004d1952c7b3f",
+        "android_client_info": {
+          "package_name": "com.falcon.kueensApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132626090670-1l0fbe32k31st42jnpmj37lrilssasq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falcon.kueensApp",
+            "certificate_hash": "505cd47d89fc76b403935169a00eaccb81c56521"
+          }
+        },
+        {
+          "client_id": "132626090670-2sllkmf69e7lasjums5qrhdvhi44fggl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falcon.kueensApp",
+            "certificate_hash": "58cf4b2560e6d7b966c6213ece2ebd5e6751f5a5"
+          }
+        },
+        {
+          "client_id": "132626090670-5pk5tuf4takpbt9sv460jc7029s0udde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falcon.kueensApp",
+            "certificate_hash": "ab971a55034d564e37bc847a7ad9dac6fc390d37"
+          }
+        },
+        {
+          "client_id": "132626090670-ag2ploia2p0vrfccuh7mcfs2cd579dbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falcon.kueensApp",
+            "certificate_hash": "e8dd40f046d91bc19c030302952964479d08a60f"
+          }
+        },
+        {
+          "client_id": "132626090670-p4nt2mhd06n38it9usaobugl9gohc4i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.falcon.kueensApp",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C1YDTxsLaD19Q3T1guPDZ-Py4xkDmXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132626090670-o1lv6i0bbu8lenhf5gdbq57brve6of86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utechware.kueensapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132626090670:android:4bf6044b7cfaf8a02c7b3f",
+        "android_client_info": {
+          "package_name": "com.teclipsepksol.thekueenforwomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132626090670-skam43ape0qakthtefb6r6uosg9cahv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teclipsepksol.thekueenforwomen",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "132626090670-t07p4ek4kb0mpnt5vsjmv4lo54iu6ogm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teclipsepksol.thekueenforwomen",
+            "certificate_hash": "e8dd40f046d91bc19c030302952964479d08a60f"
+          }
+        },
+        {
+          "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C1YDTxsLaD19Q3T1guPDZ-Py4xkDmXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132626090670-o1lv6i0bbu8lenhf5gdbq57brve6of86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utechware.kueensapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132626090670:android:27977a74113d0fbc2c7b3f",
+        "android_client_info": {
+          "package_name": "com.utechware.kueens_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132626090670-1l091kt8mo3pkapcadc6pfg5nfnbld03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.kueens_admin",
+            "certificate_hash": "58cf4b2560e6d7b966c6213ece2ebd5e6751f5a5"
+          }
+        },
+        {
+          "client_id": "132626090670-uv9rmbh3uccaslis2ko2o3u79jj7guo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.kueens_admin",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C1YDTxsLaD19Q3T1guPDZ-Py4xkDmXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132626090670-o1lv6i0bbu8lenhf5gdbq57brve6of86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utechware.kueensapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132626090670:android:142d5a5c4084caf62c7b3f",
+        "android_client_info": {
+          "package_name": "com.utechware.kueensforwoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132626090670-bhpcdb8e3nullgfo5dhi0j3am22nijgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.kueensforwoman",
+            "certificate_hash": "e8b194962e31e12f373dd2f5297115822d52d69c"
+          }
+        },
+        {
+          "client_id": "132626090670-c5immna0atn7qus5pjhg7kt31s0dqg7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.kueensforwoman",
+            "certificate_hash": "f22205df089afc726f797f575139971ad164a8cd"
+          }
+        },
+        {
+          "client_id": "132626090670-phn84qlfamc218bk4cufikqjbl91vlga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.kueensforwoman",
+            "certificate_hash": "f6e06333a86b32a0f1e4aa44877f1a4f90490aa3"
+          }
+        },
+        {
+          "client_id": "132626090670-qul9679rkm639tmuek2j2comcehcb883.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utechware.kueensforwoman",
+            "certificate_hash": "58cf4b2560e6d7b966c6213ece2ebd5e6751f5a5"
+          }
+        },
+        {
+          "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0C1YDTxsLaD19Q3T1guPDZ-Py4xkDmXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132626090670-u1g9gacrpbf78qtnqu4jl2h9dpuuiu9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132626090670-o1lv6i0bbu8lenhf5gdbq57brve6of86.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utechware.kueensapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
